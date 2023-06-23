@@ -1,4 +1,4 @@
-module github.com/ysn4irix/portapps
+module github.com/portapps/portapps
 
 go 1.18
 
