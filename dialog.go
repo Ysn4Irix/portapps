@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/ysn4irix/portapps/v3/pkg/log"
-	"github.com/ysn4irix/portapps/v3/pkg/win"
+	"github.com/portapps/portapps/v3/pkg/log"
+	"github.com/portapps/portapps/v3/pkg/win"
 )
 
 // ErrorBox display an error message box
