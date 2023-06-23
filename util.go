@@ -1,7 +1,7 @@
 package portapps
 
 import (
-	"github.com/ysn4irix/portapps/pkg/utl"
+	"github.com/ysn4irix/portapps/v3/pkg/utl"
 )
 
 // ElectronAppPath returns the app electron path

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/ysn4irix/portapps/pkg/utl"
+	"github.com/ysn4irix/portapps/v3/pkg/utl"
 	"gopkg.in/yaml.v3"
 )
 

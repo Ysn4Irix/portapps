@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/pkg/errors"
-	"github.com/ysn4irix/portapps/pkg/proc"
+	"github.com/ysn4irix/portapps/v3/pkg/proc"
 	"golang.org/x/sys/windows/registry"
 )
 
