@@ -10,9 +10,9 @@ import (
 
 	"github.com/mitchellh/mapstructure"
 	"github.com/pkg/errors"
-	"github.com/ysn4irix/portapps/v3/pkg/log"
-	"github.com/ysn4irix/portapps/v3/pkg/utl"
-	"github.com/ysn4irix/portapps/v3/pkg/win"
+	"github.com/ysn4irix/portapps/pkg/log"
+	"github.com/ysn4irix/portapps/pkg/utl"
+	"github.com/ysn4irix/portapps/pkg/win"
 	"gopkg.in/yaml.v3"
 )
 
